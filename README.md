@@ -101,6 +101,12 @@ http://localhost:8000
 ```
 python manage.py createsuperuser
 ```
+И введите данные:
+```
+Имя пользователя: admin
+Адрес электронной почты: (любой)
+Password: Password12345!
+```
 
 ## Рекомендуемый порядок запросов
 
